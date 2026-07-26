@@ -1,7 +1,13 @@
 aid: finrep
 name: Finrep
-description: 'Finrep is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Finrep is an AI-powered financial reporting intelligence platform for the office
+  of the CFO. It helps SEC reporting, technical accounting, legal counsel, investor relations,
+  disclosure committee, internal audit, tax, and ESG teams research, benchmark, validate, and
+  draft SEC disclosures grounded in EDGAR filings, authoritative accounting guidance (ASC/IFRS),
+  and IR materials — with every answer traceable to inspectable source documents. Finrep ships
+  40+ purpose-built CFO-office workflows spanning comment-letter analysis, disclosure drafting,
+  Section 16 filing, and peer benchmarking, and can deploy on-premises or in a private cloud.
+  Backed by Accel.'
 url: https://raw.githubusercontent.com/api-evangelist/finrep/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +15,31 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://cdn.finrep.ai/assets/finrep-web/assets/images/og-image.png
 tags:
 - Company
 - Ai
+- Financial Reporting
+- SEC Filings
+- Accounting
+- Fintech
+- Compliance
+- Disclosure
+- EDGAR
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,32 @@ maintainers:
 common:
 - type: Website
   url: https://finrep.ai/
+- type: Documentation
+  url: https://docs.finrep.ai/
+- type: Blog
+  url: https://www.finrep.ai/blog
+- type: Pricing
+  url: https://www.finrep.ai/pricing
+- type: SignUp
+  url: https://app.finrep.ai/
+- type: TermsOfService
+  url: https://www.finrep.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.finrep.ai/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/finrepai/
+- type: Twitter
+  url: https://x.com/FinrepAI
+- type: LLMsTxt
+  url: llms/finrep-llms.txt
+- type: TrustCenter
+  url: security/finrep-trust-center.yml
+- type: Compliance
+  url: security/finrep-trust-center.yml
+- type: DomainSecurity
+  url: security/finrep-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

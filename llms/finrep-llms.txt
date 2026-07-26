@@ -1,0 +1,97 @@
+# Finrep
+
+> AI-powered financial reporting intelligence platform for CFO offices. Finrep helps SEC Reporting, Technical Accounting, Legal Counsel, Investor Relations, Disclosure Committee, Internal Audit, CFO/Controller, Tax, and ESG Reporting teams research, compare, validate, and draft disclosures using SEC filings, EDGAR data, and IR materials — with every answer linked to inspectable source documents.
+
+## Key Pages
+
+- [Home](https://www.finrep.ai): Overview of the Finrep platform and its capabilities.
+- [About](https://www.finrep.ai/about): Learn about Finrep's mission, team, and story.
+- [Use Cases](https://www.finrep.ai/use-cases): 40 purpose-built workflows for CFO office teams.
+- [Pricing](https://www.finrep.ai/pricing): Plans and pricing for teams of all sizes.
+- [Security](https://www.finrep.ai/security): Enterprise-grade security, SOC 2 Type II, ISO 27001 compliance details.
+- [Blog](https://www.finrep.ai/blog): Insights on SEC reporting, technical accounting, and financial disclosure best practices.
+- [Privacy Policy](https://www.finrep.ai/privacy-policy): How Finrep collects, uses, and protects personal information.
+- [Terms of Service](https://www.finrep.ai/terms-of-service): Terms governing use of the Finrep platform.
+
+## Core Capabilities
+
+- Comment Letter Explorer: Search and analyze SEC comment letters across public filings.
+- SEC Filing Analysis: AI-powered analysis of 10-K, 10-Q, and other EDGAR filings.
+- Technical Accounting Research: Automated research across ASC, IFRS, and regulatory guidance.
+- Financial Disclosure Intelligence: Benchmarking and peer comparison for financial disclosures.
+- Section 16 Compliance: Prepare and file Forms 3, 4, and 5 directly to EDGAR.
+
+## Use Case Workflows
+
+### SEC Reporting
+- [Roll-Forward](https://www.finrep.ai/use-cases/roll-forward): Automate roll-forward of prior-period disclosure language.
+- [Cross-Period Drift Analysis](https://www.finrep.ai/use-cases/cross-period-drift-analysis): Detect narrative drift across filing periods.
+- [Peer Alignment](https://www.finrep.ai/use-cases/peer-alignment): Benchmark disclosures against industry peers.
+- [Comment Letter Risk](https://www.finrep.ai/use-cases/comment-letter-risk): Predict SEC comment letter risk areas.
+- [Redline Reporting](https://www.finrep.ai/use-cases/redline-reporting): Generate redline comparisons across filing versions.
+- [Filing Health Check](https://www.finrep.ai/use-cases/filing-health-check): Pre-submission validation of SEC filings.
+- [Guideline Alignment Check](https://www.finrep.ai/use-cases/guideline-alignment-check): Verify disclosures against ASC/IFRS guidance.
+- [Risk Factor Benchmark](https://www.finrep.ai/use-cases/risk-factor-benchmark): Compare risk factor disclosures with peers.
+- [Financial Statement Note Benchmark](https://www.finrep.ai/use-cases/financial-statement-note-benchmark): Benchmark financial statement notes.
+- [EDGAR Search](https://www.finrep.ai/use-cases/edgar-search): Full-text search across EDGAR filings.
+- [iXBRL Tagging](https://www.finrep.ai/use-cases/ixbrl-tagging): Validate and review iXBRL tagging.
+- [Tick-and-Tie](https://www.finrep.ai/use-cases/tick-and-tie): Automate tick-and-tie procedures.
+
+### Disclosure Drafting
+- [Footnotes Drafting](https://www.finrep.ai/use-cases/footnotes-drafting): Draft 10-K/10-Q sections using peer precedent.
+- [Disclosure Enhancement](https://www.finrep.ai/use-cases/disclosure-enhancement): Improve existing disclosure language.
+- [Draft Risk Factors](https://www.finrep.ai/use-cases/draft-risk-factors): Generate risk factor language from templates and peers.
+- [8-K Event Disclosure](https://www.finrep.ai/use-cases/8-k-event-disclosure): Draft 8-K event disclosures.
+
+### Technical Accounting
+- [ASU Applicability](https://www.finrep.ai/use-cases/asu-applicability): Assess ASU applicability to your entity.
+- [Authoritative Guideline Interpretation](https://www.finrep.ai/use-cases/authoritative-guideline-interpretation): Research ASC/IFRS guidance.
+- [Revenue Contract Analysis](https://www.finrep.ai/use-cases/revenue-contract-analysis): Analyze revenue recognition under ASC 606.
+- [Guidance Monitoring](https://www.finrep.ai/use-cases/guidance-monitoring): Track new and proposed accounting guidance.
+- [Policy Memo](https://www.finrep.ai/use-cases/policy-memo): Draft technical accounting policy memos.
+
+### Legal Counsel
+- [Section 16 Compliance](https://www.finrep.ai/use-cases/section-16-compliance): Manage Section 16 reporting obligations.
+- [Comment Letter Response](https://www.finrep.ai/use-cases/comment-letter-response): Draft responses to SEC comment letters.
+- [Scrutiny Scan](https://www.finrep.ai/use-cases/scrutiny-scan): Identify potential regulatory scrutiny areas.
+- [Litigation Disclosure Benchmark](https://www.finrep.ai/use-cases/litigation-disclosure-benchmark): Benchmark litigation disclosures.
+- [Material Event Triage](https://www.finrep.ai/use-cases/material-event-triage): Assess materiality of corporate events.
+
+### Investor Relations
+- [MD&A Benchmark](https://www.finrep.ai/use-cases/mda-benchmark): Benchmark MD&A narrative against peers.
+- [Peer Presentation Analysis](https://www.finrep.ai/use-cases/peer-presentation-analysis): Analyze peer investor presentations.
+- [Peer Positioning](https://www.finrep.ai/use-cases/peer-positioning): Position your company narrative vs peers.
+- [Analyst Q&A Anticipation](https://www.finrep.ai/use-cases/analyst-qa-anticipation): Prepare for analyst questions.
+- [Variance Explanation](https://www.finrep.ai/use-cases/variance-explanation): Generate variance explanations for earnings.
+- [Peer Disclosure Evolution](https://www.finrep.ai/use-cases/peer-disclosure-evolution): Track how peer disclosures evolve.
+
+### Disclosure Committee
+- [Pre-Filing Completeness](https://www.finrep.ai/use-cases/pre-filing-completeness): Verify filing completeness before submission.
+- [SEC Focus Area Briefing](https://www.finrep.ai/use-cases/sec-focus-area-briefing): Briefings on current SEC focus areas.
+
+### Internal Audit
+- [SOX Disclosure Linkage](https://www.finrep.ai/use-cases/sox-disclosure-linkage): Link SOX controls to disclosure assertions.
+
+### CFO / Controller
+- [Certification Readiness](https://www.finrep.ai/use-cases/certification-readiness): Pre-certification risk assessment.
+- [Trial Balance Schedules](https://www.finrep.ai/use-cases/trial-balance-schedules): Map trial balance to disclosure schedules.
+- [Cross-Period Consistency](https://www.finrep.ai/use-cases/cross-period-consistency): Check narrative consistency across periods.
+
+### ESG Reporting
+- [ESG Disclosure Benchmark](https://www.finrep.ai/use-cases/esg-disclosure-benchmark): Benchmark ESG disclosures (TCFD, SASB, GRI).
+- [ESG Regulatory Monitoring](https://www.finrep.ai/use-cases/esg-regulatory-monitoring): Track SEC climate disclosure rules.
+
+## Blog Topics
+
+- SEC Reporting & EDGAR: Filing best practices, comment letter analysis, XBRL/iXBRL guidance.
+- Technical Accounting: ASC/IFRS interpretation, revenue recognition, lease accounting.
+- Section 16 Compliance: Forms 3/4/5, insider reporting deadlines, compliance guides.
+- Financial Disclosure: MD&A drafting, risk factor writing, peer benchmarking.
+- AI in Finance: How AI transforms financial reporting workflows.
+
+## Contact
+
+- Website: https://www.finrep.ai
+- Email: support@finrep.ai
+- LinkedIn: https://www.linkedin.com/company/finrepai/
+- Twitter: https://x.com/FinrepAI
