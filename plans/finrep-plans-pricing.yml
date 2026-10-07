@@ -1,0 +1,27 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.finrep.ai/pricing
+sources:
+- https://www.finrep.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: On-prem deployment
+published: false
+note: No numeric prices; page states pricing is based on modules, scale, and support level. On-prem/private
+  cloud deployment offered.
+plan_count: 1
+plans:
+- name: Free Trial
+  price_text: Try Finrep free for 14 days
+  price: 14
+  period: none
+  included_quota: Full platform access, No credit card, Cancel anytime
